@@ -1,2 +1,6 @@
 .obsidian/
 .idea/
+venv/
+node_modules/
+*-lock.json
+.env
